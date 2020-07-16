@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GetArticles</string>
+
+    <string name="get_articles">Get Articles</string>
+    <string name="user_name">User Name</string>
+    <string name="user_designation">User Designation</string>
+    <string name="time">1 min</string>
+    <string name="likes">4.5K Likes</string>
+    <string name="comments">30K Comments</string>
+    <string name="get_users">Get Users</string>
+</resources>
